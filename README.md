@@ -1,25 +1,109 @@
-% AV System
+% Digital AV System
+% Media PC with 5.1 Support
+% 2015/11/27
 
 Abstract
 ===============
 
-Overview
+- What you set out to do and why
+- How you did it
+- What you found
+- recommendations
+- (which is capable of being read independently of your report.)
+
+Keywords
+---------------
+AV, HDMI, XBMC, 4K
+
+Introduction
 ===============
 
+The plan is to put together a PC AV System.
+Stakeholder wish to have a system that replaces several pieces of AV separates
+Replace existing (cluttered) AV system in main living room
+[picture]
 
-Stakeholders
+
+Scope / Objectives
+===============
+
+Primary
 ---------------
 
+1. To specify a complete AV system
+2. System must play Blurays
+3. System must be able to watch live (digital) TV broadcast
+4. System must output 5.1 surround sound audio
 
-Scope
-===============
+Secondary
+---------------
+
+1. Minimise visual clutter of cables
+2. Minimise number of remote controls
+
 
 Existing System
 ===============
 
+Usage
+----------------
 
-Current Technology
-------------------
+Problems
+----------------
+
+Tv has no HDMI out.
+Wifi Reception from Router location to media centre location
+
+Components
+----------------
+
+### AV System
+
+- TV: Toshiba 40RL858 [1]
+- AV: Samsung HT-TZ315 Dolby 5.1 AV Decoder
+- Samsung 4 tower speakers
+- Samsung bass bin
+
+### Gaming System
+
+- Playstation 3
+- Wii
+
+### Network
+
+- Fibre Broadband
+- Draytek Modem/Router/Wifi
+- 1 x Cat6 Cable
+
+
+Toshiba 40RL858 
+----------------
+
+| | |
+|-|-|
+| Screen | 40" LCD, LED |
+| Resolution | 1080p |
+| Tuner | Freeview HD DVB-T2, analogue |
+| Video | 3xHDMI Input, DSub input, Composite, Scart |
+| Audio | Phono input, optical out, headphone out |
+| Other | 1 x USB, Ethernet |
+| Power | 89 W, 0.3W Standby |
+
+source: [1]
+
+
+Samsung HT-TZ315
+----------------
+
+| | |
+|-|-|
+| Release Date | 2008/05/01 |
+| Dolby | Dolby Digital , Dolby ProLogicII , DTS |
+
+
+
+Solutions
+===============
 
 
 Appendix
@@ -34,3 +118,24 @@ HDMI
 References
 ---------------
 
+[1]: http://www.theregister.co.uk/2012/02/03/review_toshiba_regza_40rl858_led_smart_tv/ "The Register - Toshiba 40RL858 Review"
+[2]: http://www.theatresystem-manual.com/manuals/samsung/Samsung_HT-TZ315.pdf "Samsung HT-TZ315 Manual"
+
+License
+==============
+
+```
+    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                    Version 2, December 2004 
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
+```
