@@ -35,6 +35,7 @@ Other      | 1 x USB, Ethernet
 Power      | 89 W, 0.3W Standby
 
 
+
 | | |
 |-|-|
 | Screen | 40" LCD, LED |
