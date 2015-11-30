@@ -46,6 +46,7 @@ Power      | 89 W, 0.3W Standby
 | Power | 89 W, 0.3W Standby |
 
 
+
 Detail | Info
 ------ | ----
 Screen | 40" LCD, LED
