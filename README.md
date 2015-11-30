@@ -84,8 +84,8 @@ Components
 Toshiba 40RL858 
 ----------------
 
-| | |
-|-|-|
+| Detail | Info |
+|--|--|
 | Screen | 40" LCD, LED |
 | Resolution | 1080p |
 | Tuner | Freeview HD DVB-T2, analogue |
