@@ -5,11 +5,13 @@
 Abstract
 ===============
 
+<!---
 - What you set out to do and why
 - How you did it
 - What you found
 - recommendations
 - (which is capable of being read independently of your report.)
+-->
 
 Keywords
 ---------------
@@ -18,9 +20,9 @@ AV, HDMI, XBMC, 4K
 Introduction
 ===============
 
-The plan is to put together a PC AV System.
-Stakeholder wish to have a system that replaces several pieces of AV separates
-Replace existing (cluttered) AV system in main living room
+- The plan is to put together a PC AV System.
+- Stakeholder wish to have a system that replaces several pieces of AV separates
+- Replace existing (cluttered) AV system in main living room
 [picture]
 
 
@@ -30,7 +32,7 @@ Scope / Objectives
 Primary
 ---------------
 
-1. To specify a complete AV system
+1. To build the working system by 2015/12/25
 2. System must play Blurays
 3. System must be able to watch live (digital) TV broadcast
 4. System must output 5.1 surround sound audio
@@ -45,14 +47,17 @@ Secondary
 Existing System
 ===============
 
+<!---
 Usage
 ----------------
+-->
 
 Problems
 ----------------
 
-Tv has no HDMI out.
-Wifi Reception from Router location to media centre location
+
+- Tv has no HDMI out.
+- Wifi Reception from Router location to media centre location
 
 Components
 ----------------
@@ -121,21 +126,3 @@ References
 [1]: http://www.theregister.co.uk/2012/02/03/review_toshiba_regza_40rl858_led_smart_tv/ "The Register - Toshiba 40RL858 Review"
 [2]: http://www.theatresystem-manual.com/manuals/samsung/Samsung_HT-TZ315.pdf "Samsung HT-TZ315 Manual"
 
-License
-==============
-
-```
-    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
-
- Everyone is permitted to copy and distribute verbatim or modified 
- copies of this license document, and changing it is allowed as long 
- as the name is changed. 
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
-```
