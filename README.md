@@ -84,15 +84,17 @@ Components
 Toshiba 40RL858 
 ----------------
 
-| Detail | Info |
-|--|--|
-| Screen | 40" LCD, LED |
-| Resolution | 1080p |
-| Tuner | Freeview HD DVB-T2, analogue |
-| Video | 3xHDMI Input, DSub input, Composite, Scart |
-| Audio | Phono input, optical out, headphone out |
-| Other | 1 x USB, Ethernet |
-| Power | 89 W, 0.3W Standby |
+
+Detail | Info
+------ | ----
+Screen | 40" LCD, LED
+Resolution | 1080p
+Tuner | Freeview HD DVB-T2, analogue
+Video | 3xHDMI Input, DSub input, Composite, Scart
+Audio | Phono input, optical out, headphone out
+Other | 1 x USB, Ethernet
+Power | 89 W, 0.3W Standby
+
 
 source: [1]
 
@@ -100,15 +102,17 @@ source: [1]
 Samsung HT-TZ315
 ----------------
 
-| | |
-|-|-|
-| Release Date | 2008/05/01 |
-| Dolby | Dolby Digital , Dolby ProLogicII , DTS |
+Detail | Info
+------ | ----
+Release Date | 2008/05/01
+Dolby | Dolby Digital , Dolby ProLogicII , DTS
 
 
 
 Solutions
 ===============
+
+
 
 
 Appendix
